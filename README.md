@@ -140,7 +140,7 @@ This **Hostel/PG Booking Web Application** allows users to:
 * Implement **role-based authentication** and permissions.
 
 ---
-## Watch Demo Vedio [  ]
+## Watch Demo Vedio [ https://drive.google.com/file/d/1TVhWyF6jMT7LuYHp8-AegTOhMsQnQiwR/view?usp=drivesdk ]
 ## **Screenshots**
 
 * Home Page with Hero Section [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/36e260bf8b9287567a1f6905aa5c73cc57c0722f/Screenshots%20of%20the%20project/Home%20page.png ]
