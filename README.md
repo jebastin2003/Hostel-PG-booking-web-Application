@@ -143,18 +143,18 @@ This **Hostel/PG Booking Web Application** allows users to:
 ## Watch Demo Vedio [ https://drive.google.com/file/d/1TVhWyF6jMT7LuYHp8-AegTOhMsQnQiwR/view?usp=drivesdk ]
 ## **Screenshots**
 
-* Home Page with Hero Section [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/36e260bf8b9287567a1f6905aa5c73cc57c0722f/Screenshots%20of%20the%20project/Home%20page.png ]
-* homepage 2 [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/36e260bf8b9287567a1f6905aa5c73cc57c0722f/Screenshots%20of%20the%20project/homepage2.png ]
-* homepage 3[ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/36e260bf8b9287567a1f6905aa5c73cc57c0722f/Screenshots%20of%20the%20project/homepage%203.png ]
-* login page [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/36e260bf8b9287567a1f6905aa5c73cc57c0722f/Screenshots%20of%20the%20project/Login%20page.png ]
-* Register page [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/36e260bf8b9287567a1f6905aa5c73cc57c0722f/Screenshots%20of%20the%20project/Register%20page.png ]
-* Student Dashboard[ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/36e260bf8b9287567a1f6905aa5c73cc57c0722f/Screenshots%20of%20the%20project/student%20Dashboard%20page.png ]
-* Student booking page [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/36e260bf8b9287567a1f6905aa5c73cc57c0722f/Screenshots%20of%20the%20project/student%20booking%20page.png ]
-* Student booking view and cancelling [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/36e260bf8b9287567a1f6905aa5c73cc57c0722f/Screenshots%20of%20the%20project/Studentbooking%20view%20and%20cancelling%20page.png ]
-* Admin Dashboard [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/36e260bf8b9287567a1f6905aa5c73cc57c0722f/Screenshots%20of%20the%20project/admin%20dashboard%20page.png ]
-* Admin addroom [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/36e260bf8b9287567a1f6905aa5c73cc57c0722f/Screenshots%20of%20the%20project/admin%20addroom%20page.png ]
-* Admin viewall booking [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/36e260bf8b9287567a1f6905aa5c73cc57c0722f/Screenshots%20of%20the%20project/admin%20view%20all%20booking%20page.png ]
-* Booking History Page [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/36e260bf8b9287567a1f6905aa5c73cc57c0722f/Screenshots%20of%20the%20project/admin%20booking%20history%20page.png ]
+* Home Page with Hero Section [https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/2711ef0b9534770bf7d742672326c0ea1318daef/Screenshots%20of%20the%20project/Home%20page.png ]
+* homepage 2 [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/2711ef0b9534770bf7d742672326c0ea1318daef/Screenshots%20of%20the%20project/homepage2.png ]
+* homepage 3[ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/2711ef0b9534770bf7d742672326c0ea1318daef/Screenshots%20of%20the%20project/homepage%203.png ]
+* login page [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/2711ef0b9534770bf7d742672326c0ea1318daef/Screenshots%20of%20the%20project/Login%20page.png ]
+* Register page [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/2711ef0b9534770bf7d742672326c0ea1318daef/Screenshots%20of%20the%20project/Register%20page.png ]
+* Student Dashboard[ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/2711ef0b9534770bf7d742672326c0ea1318daef/Screenshots%20of%20the%20project/student%20Dashboard%20page.png ]
+* Student booking page [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/2711ef0b9534770bf7d742672326c0ea1318daef/Screenshots%20of%20the%20project/student%20booking%20page.png ]
+* Student booking view and cancelling [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/2711ef0b9534770bf7d742672326c0ea1318daef/Screenshots%20of%20the%20project/Studentbooking%20view%20and%20cancelling%20page.png ]
+* Admin Dashboard [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/2711ef0b9534770bf7d742672326c0ea1318daef/Screenshots%20of%20the%20project/admin%20dashboard%20page.png ]
+* Admin addroom [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/2711ef0b9534770bf7d742672326c0ea1318daef/Screenshots%20of%20the%20project/admin%20addroom%20page.png ]
+* Admin viewall booking [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/2711ef0b9534770bf7d742672326c0ea1318daef/Screenshots%20of%20the%20project/admin%20view%20all%20booking%20page.png ]
+* Booking History Page [ https://github.com/jebastin2003/Hostel-PG-booking-web-Application/blob/2711ef0b9534770bf7d742672326c0ea1318daef/Screenshots%20of%20the%20project/admin%20booking%20history%20page.png ]
 
 ---
 
